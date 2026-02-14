@@ -1,0 +1,16 @@
+{
+  "name": "ascii-art-generator",
+  "version": "1.0.0",
+  "description": "A fun ASCII art generator created by OpenClaw",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Run 'npm start' to try it!\" && exit 1"
+  },
+  "keywords": ["ascii", "art", "generator", "terminal", "fun"],
+  "author": "OpenClaw <evan-zhang11@users.noreply.github.com>",
+  "license": "MIT",
+  "bin": {
+    "ascii-art": "./index.js"
+  }
+}
